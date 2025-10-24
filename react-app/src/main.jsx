@@ -4,6 +4,7 @@ import Card from './components/card.jsx'
 import image1 from './assests/image1.jpg';
 import image2 from './assests/image2.jpg';
 import Footer from './components/footer.jsx';
+
 createRoot(document.getElementById('root')).render(
   <>
  <Header title='Welcome to my app'/>
